@@ -1,1 +1,1 @@
-streamlit
+streamlit run iftmin_decryptor.py
